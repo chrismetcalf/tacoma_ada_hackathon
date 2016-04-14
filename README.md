@@ -2,7 +2,9 @@
 
 <b>When:</b> April 20th and April 21st, 1:00 pm PST to 3:00 pm on the 21st.
 
-<b>Where:</b> UW Tacoma Center for Student Involvement - Room 303-304
+<b>Where:</b> YMCA - UW Tacoma - Center for Student Involvement
+1710 Market St, Room 303-304
+Tacoma, WA 98402
 
 <b>Participants:</b>
 * [GeoEngineers](http://www.geoengineers.com)
