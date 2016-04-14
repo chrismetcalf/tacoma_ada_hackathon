@@ -10,7 +10,7 @@
 * Institute of Technology at the UWT
 * Center for Data Science
 * Urban Studies at the UWT
-* [Pierce County Transit](http://www.piercetransit.org/)
+* [Pierce Transit](http://www.piercetransit.org/)
 * [City of Tacoma](http://www.cityoftacoma.org/)
 
 ##Problem Statements
