@@ -12,7 +12,7 @@ This list is a work in progress.  Please feel free to edit this data source list
 | Data Element  | Data Source   | Status   | Comments  |
 |---|---|---|---|
 | [Bus Routes] (data/pierce_transit/pierce_transit_routes.geojson)  | Pierce Transit  | Available  |   |
-| Passenger Data   |   |   |   |
+| [Bus Schedules]   | Pierce Transit  |   | Available in Google GTFS format  |
 | [Bus Stops] (data/pierce_transit/pierce_transit_stop.geojson) | Pierce Transit | Available | |
 | [Transit Boundary] (data/pierce_transit/pierce_transit_boundary.geojson) | Pierce Transit | Available  | |
 | [Transit Centers] (data/pierce_transit/pierce_transit_centers_and_park_rides.geojson) | Pierce Transit | Available | |
