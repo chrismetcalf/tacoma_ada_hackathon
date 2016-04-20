@@ -17,6 +17,7 @@ This list is a work in progress.  Please feel free to edit this data source list
 | [Transit Boundary] (data/pierce_transit/pierce_transit_boundary.geojson) | Pierce Transit | Available  | |
 | [Transit Centers] (data/pierce_transit/pierce_transit_centers_and_park_rides.geojson) | Pierce Transit | Available | |
 | [Client scrubbed data for hackathon] (data/pierce_transit/hackathon_client_scrubbed.geojson) | Pierce Transit | Available ||
+| [Ramps and Walkways] (https://services2.arcgis.com/fBDXdj7Zh91YF2mv/ArcGIS/rest/services/Sidewalks/FeatureServer) | Pierce Transit |[Check out the WebMap](https://piercetransit.maps.arcgis.com/apps/Viewer/index.html?appid=3cbc91e763634248af9c7d01de39acb3)|
 
 <b>NOTE:</b>  There is more data in the two Esri File Geodatabases that were provided to the team from Pierce Transit.  These files exist here:
 
