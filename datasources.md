@@ -18,11 +18,18 @@ This list is a work in progress.  Please feel free to edit this data source list
 | [Transit Centers] (data/pierce_transit/pierce_transit_centers_and_park_rides.geojson) | Pierce Transit | Available | |
 | [Client scrubbed data for hackathon] (data/pierce_transit/hackathon_client_scrubbed.geojson) | Pierce Transit | Available ||
 | [Ramps and Walkways] (https://services2.arcgis.com/fBDXdj7Zh91YF2mv/ArcGIS/rest/services/Sidewalks/FeatureServer) | Pierce Transit |[Check out the WebMap](https://piercetransit.maps.arcgis.com/apps/Viewer/index.html?appid=3cbc91e763634248af9c7d01de39acb3)|
+| [Pedestrian Crossing Improvements](https://data.cityoftacoma.org/Infrastructure-and-Transportation/Pedestrian-Crossing-Improvements/u9hn-5pi5) ([API](https://dev.socrata.com/foundry/data.cityoftacoma.org/p64f-xb62)) | City of Tacoma | Available | Full query API in JSON, GeoJSON, CSV |
+| [Transit Centers](https://data.cityoftacoma.org/Neighborhoods/Tacoma-Transit-Centers/5c9b-a4df) ([API](https://dev.socrata.com/foundry/data.cityoftacoma.org/pjk6-2v8g)) | City of Tacoma | Available | Full query API in JSON, GeoJSON, CSV |
 
 <b>NOTE:</b>  There is more data in the two Esri File Geodatabases that were provided to the team from Pierce Transit.  These files exist here:
 
 - [Esri File Geodatabase with ADA ramp information and more 1 of 2](https://github.com/GeoEngineers/tacoma_ada_hackathon/blob/master/data/pierce_transit/UWT_Hackathon.gdb.zip)
 - [Esri File Geodatabase with ADA ramp information and more 2 of 2](https://github.com/GeoEngineers/tacoma_ada_hackathon/blob/master/data/pierce_transit/UWT_Hackathon2.gdb.zip)
+
+# City Data 
+| Data Element  | Data Source   | Status   | Comments  |
+|---|---|---|---|
+| [Closed 311 Requests](https://data.cityoftacoma.org/City-Administration-and-Finance/Tacoma-FIRST-311-Closed-Requests/fsee-ctdr) ([API](https://dev.socrata.com/foundry/data.cityoftacoma.org/fsee-ctdr)) | City of Tacoma | Available | Full query API in JSON, GeoJSON, CSV |
 
 # Transportation Data
 | Data Element  | Data Source   | Status   | Format  |

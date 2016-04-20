@@ -14,6 +14,7 @@ Tacoma, WA 98402
 * Urban Studies at the UWT
 * [Pierce Transit](http://www.piercetransit.org/)
 * [City of Tacoma](http://www.cityoftacoma.org/)
+* [Socrata](https://dev.socrata.com)
 
 ##Problem Statements
 
@@ -29,6 +30,7 @@ Note: These are not exclusive to the projects that will be worked on but provide
 * 1:00 pm - 1:30 pm - Problem Discovery
 * 1:30 pm - 1:45 pm - Hackthon Rules and Resources
 * 2:00 pm - 2:30 pm - 3rd Party APIs
+   * [@chrismetcalf](https://github.com/chrismetcalf)'s [Socrata API Slides](https://socrata.github.io/presentations/hackathons/2016-04-20-tacoma-ada.html), [Developer Portal](https://dev.socrata.com)
 * 4:00 pm - 4:30 pm - Team Announcements - Team members, team goals, team needs/resources, etc
 * Team Stand up check in's - Possibly every 2 hours
 
