@@ -16,12 +16,19 @@ This list is a work in progress.  Please feel free to edit this data source list
 | [Transit Stops] (data/pierce_transit/pierce_transit_stop.geojson) | Pierce Transit | Available | |
 | [Transit Boundary] (data/pierce_transit/pierce_transit_boundary.geojson) | Pierce Transit | Available  | |
 | [Transit Centers] (data/pierce_transit/pierce_transit_centers_and_park_rides.geojson) | Pierce Transit | Available | |
+| [Client scrubbed data for hackathon] (data/pierce_transit/hackathon_client_scrubbed.geojson) | Pierce Transit | Available ||
+
+<b>NOTE:</b>  There is more data in the two Esri File Geodatabases that were provided to the team from Pierce Transit.  These files exist here:
+
+- [Esri File Geodatabase with ADA ramp information and more 1 of 2](https://github.com/GeoEngineers/tacoma_ada_hackathon/blob/master/data/pierce_transit/UWT_Hackathon.gdb.zip)
+- [Esri File Geodatabase with ADA ramp information and more 2 of 2](https://github.com/GeoEngineers/tacoma_ada_hackathon/blob/master/data/pierce_transit/UWT_Hackathon2.gdb.zip)
 
 # Transportation Data
 | Data Element  | Data Source   | Status   | Format  |
 |---|---|---|---|
 | Pierce County Roads  | [Pierce County GIS](http://gisdata.piercecowa.opendata.arcgis.com/datasets/69c348eaed60458389f8d5c1fb3e5a1f_0 "Title")  |  Available  | GeoJSON, Esri Shapefile  |
 | Pierce County Utility Data   | [Pierce County GIS](http://gisdata.piercecowa.opendata.arcgis.com/datasets?q=Utilities "Utilities")  | Available  | GeoJSON, Esri Shapefile   |
+
 
 
 # Land Use Data
