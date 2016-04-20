@@ -14,6 +14,7 @@ Tacoma, WA 98402
 * Urban Studies at the UWT
 * [Pierce Transit](http://www.piercetransit.org/)
 * [City of Tacoma](http://www.cityoftacoma.org/)
+* [Socrata](https://dev.socrata.com)
 
 ##Problem Statements
 
