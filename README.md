@@ -43,6 +43,13 @@ Note: These are not exclusive to the projects that will be worked on but provide
 
 Please refer to the [Data Resources](https://github.com/GeoEngineers/tacoma_ada_hackathon/blob/master/datasources.md) section of the repository for a list of data to use for the hackathon.
 
+### Getting Socrata Help
+
+There are a couple of options for getting help with Socrata APIs and data:
+
+- [File a GitHub issue on this repository](https://github.com/GeoEngineers/tacoma_ada_hackathon/issues/new). Tag @chrismetcalf to make sure he gets it.
+- Find @chrismetcalf or one of the other helpful Socrata developers [in our IRC chat room](https://dev.socrata.com/irc.html)
+
 ### Github Help
 [New to Github? Get started here.](http://htmlpreview.github.com/?https://github.com/Esri/esri.github.com/blob/master/help/esri-getting-to-know-github.html)
 
